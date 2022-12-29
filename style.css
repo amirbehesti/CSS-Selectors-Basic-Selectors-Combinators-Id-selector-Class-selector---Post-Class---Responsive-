@@ -140,7 +140,6 @@
     margin-right: 0.5rem;
     margin-left: 2rem;
     text-align: center;
-    font-weight: bold;
   }
   .project-details {
     padding-top: 0.5rem;
@@ -155,11 +154,14 @@
     width: 30%;
     margin-right: 0.5rem;
     margin-left: 2rem;
-    font-weight: bold;
     text-align: center;
   }
   .personal-details .icon {
     padding-top: 1rem;
+  }
+  .link{
+    text-decoration: none;
+    font-style: italic;
   }
   @media screen and (max-width: 673px) {
     .main-content {
